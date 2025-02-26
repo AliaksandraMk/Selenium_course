@@ -1,3 +1,3 @@
 # Selenium_course
 
-# This is just to learngit
+# This is just to learn git
